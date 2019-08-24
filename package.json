@@ -1,0 +1,28 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "My blog created on 24 Aug 2k19",
+  "main": "index.js",
+  "scripts": {
+    "deploy" : "gh-pages -d MyBlog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoRichard/MyBlog-2k19.git"
+  },
+  "keywords": [
+    "My",
+    "Blog",
+    "Page"
+  ],
+  "author": "Antony Raj Richard",
+  "license": "ISC",
+  "homepage" : "https://AntoRichard.github.io/AntoRichard",
+  "bugs": {
+    "url": "https://github.com/AntoRichard/MyBlog-2k19/issues"
+  },
+  "homepage": "https://github.com/AntoRichard/MyBlog-2k19#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
